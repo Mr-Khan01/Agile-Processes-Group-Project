@@ -1,8 +1,4 @@
 Print ("Hello World!")
-Print ("Hello World!")
-//Edit this file and add more code
 
-Print ("Hello World!")
-Print ("Hello World!")
-Print ("Hello World!")
-Print ("Hello World!")
+
+// now i have delete the repeated code in this file
